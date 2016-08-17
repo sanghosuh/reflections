@@ -3,4 +3,11 @@
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-Because that may cause conflicts between my repository and github repository.
+A) Because that may cause conflicts between my repository and github repository.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A) Fork is used to import repository from someone else's repository. It is a copy, which means you can do whatever you want with it. Clone is for downloading a repository to your local computer. Branch is another version of your repository. 
+
+
